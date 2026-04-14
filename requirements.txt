@@ -1,3 +1,4 @@
 moviepy
 decorator==4.4.2
 proglog﻿
+st-annotated-text
