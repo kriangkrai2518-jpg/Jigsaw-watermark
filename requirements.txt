@@ -1,4 +1,6 @@
-moviepy
+moviepy==1.0.3
 decorator==4.4.2
 proglog﻿
 st-annotated-text
+
+
